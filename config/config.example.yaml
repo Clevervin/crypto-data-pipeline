@@ -13,6 +13,6 @@ postgres:
   host: "localhost"
   port: 5432
   dbname: "crypto_pipeline_db"
-  user: "your_user"
-  password: "your_password"
+  user: "Your_user"
+  password: "your_pasword"
   schema: "crypto"
